@@ -1,5 +1,10 @@
 .vs/
+.vscode/
+build*/
+Debug/
+Release/
+x64/
+GeneratedFiles/
+
 *.ini
 *.user
-Debug/
-GeneratedFiles/
